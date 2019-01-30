@@ -1,3 +1,6 @@
 ---
 server:
   port: 8021
+
+values:
+  test: hello
